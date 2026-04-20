@@ -1,2 +1,3 @@
 # Portfolio
-jekyll-theme-cayman
+theme: jekyll-theme-cayman
+
