@@ -4,6 +4,11 @@ Hello! I am an aspiring Biology and Health student with experience in teamwork, 
 With skills in communication, leadership, teamwork, and critical thinking, I am able to collaborate effectively on projects and apply scientific concepts to real-world problems. I am adept at using Microsoft Excel, Microsoft Access, and Python for data analysis and coursework.
 My strong work ethic, commitment to learning, and passion for health and wellness make me a valuable asset. In my spare time, I enjoy cheering, dancing, acting, and photography.
 You can find me on LinkedIn, Instagram, or other social media platforms.
+
+<img src="pfp.jpeg" width="150" height="150">
+
+<img src="banner.jpg" width="3200" height="410">
+
 ## Projects
 
 ### Project 1
