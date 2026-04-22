@@ -18,5 +18,5 @@ You can find me on LinkedIn, Instagram, or other social media platforms.
 
 ### Project 3
 - Description: I expanded my Inventory Manager workbook by adding more advanced Excel features. I used absolute and mixed cell references in formulas, along with functions like average, maximum, minimum, sum, and count to better analyze my data. I also applied decision logic using IF statements and added conditional formatting to highlight important information and make the worksheet more interactive and visually clear. For Part 2, I created a Job Application Tracker on a new sheet. I tracked at least three jobs, including details like job title, company, deadlines, salary range, and application status. I also included hyperlinks to my resume and cover letters, along with notes about responses and the hiring process. I designed the tracker to be organized, useful, and easy to update.
-- Link: ([url]([url](https://studentsloyola-my.sharepoint.com/:x:/g/personal/rmwatt_loyola_edu/IQDVLOvxH0TtTZF8AR0d8GZjAUbTagseCpS9Ad0ePqs6Vf8?e=7V7HHU))
+- Link: ([url]([url](https://studentsloyola-my.sharepoint.com/:x:/g/personal/rmwatt_loyola_edu/IQDVLOvxH0TtTZF8AR0d8GZjAUbTagseCpS9Ad0ePqs6Vf8?e=7V7HHU)))
 - Screenshot:
